@@ -1,5 +1,1 @@
-<immagine>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://ibb.co/QpykStY">
-</picture>
+[![banner-1.png](https://i.postimg.cc/ydfxjNnN/banner-1.png)](https://postimg.cc/CBqwLS3y)
